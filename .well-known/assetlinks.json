@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.premvioapp.twa",
+        "sha256_cert_fingerprints": ["8A:3E:AB:0F:1F:F1:42:2B:3B:16:00:AE:83:C4:CD:98:F2:11:C5:69:2B:09:34:5F:16:91:0A:F2:87:A6:9D:B0"]
+      }
+    }]
